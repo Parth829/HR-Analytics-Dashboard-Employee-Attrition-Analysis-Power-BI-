@@ -41,11 +41,11 @@ This dashboard answers critical HR questions:
 
 ## Insights Derived
 
-* 🔹 Higher attrition observed among employees with 1–3 years of tenure
-* 🔹 Overtime and low job satisfaction strongly correlate with attrition
-* 🔹 Certain departments show significantly higher exit rates
-* 🔹 Lower salary slabs experience comparatively higher attrition
-* 🔹 Younger workforce segments show higher mobility trends
+*  Higher attrition observed among employees with 1–3 years of tenure
+*  Overtime and low job satisfaction strongly correlate with attrition
+*  Certain departments show significantly higher exit rates
+*  Lower salary slabs experience comparatively higher attrition
+*  Younger workforce segments show higher mobility trends
 
 These insights can help HR teams proactively design retention strategies.
 
@@ -63,13 +63,13 @@ These insights can help HR teams proactively design retention strategies.
 
 ## Dashboard Features
 
-✔ Interactive filters and slicers
-✔ Department-wise attrition analysis
-✔ Job role breakdown
-✔ Salary slab distribution
-✔ Age group analysis
-✔ Years at company visualization
-✔ KPI summary cards
+* Interactive filters and slicers
+* Department-wise attrition analysis
+* Job role breakdown
+* Salary slab distribution
+* Age group analysis
+* Years at company visualization
+* KPI summary cards
 
 ---
 
