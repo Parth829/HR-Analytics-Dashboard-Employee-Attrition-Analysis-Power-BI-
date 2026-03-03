@@ -1,5 +1,3 @@
-# HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-
-
 #  HR Analytics Dashboard – Employee Attrition Analysis
 
 ## Overview
