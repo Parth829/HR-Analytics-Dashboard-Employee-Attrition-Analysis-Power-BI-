@@ -1,8 +1,8 @@
 # HR-Analytics-Dashboard-Employee-Attrition-Analysis-Power-BI-
 
-# 📊 HR Analytics Dashboard – Employee Attrition Analysis
+#  HR Analytics Dashboard – Employee Attrition Analysis
 
-## 🔎 Overview
+## Overview
 
 This project presents an interactive **HR Analytics Dashboard** built in Power BI to analyze employee attrition patterns and uncover key factors influencing workforce turnover.
 
@@ -10,7 +10,7 @@ The objective was to convert raw HR data into actionable business insights that 
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Employee attrition leads to:
 
@@ -28,7 +28,7 @@ This dashboard answers critical HR questions:
 
 ---
 
-## 📌 Key KPIs Tracked
+## Key KPIs Tracked
 
 * Total Employees
 * Attrition Count
@@ -39,7 +39,7 @@ This dashboard answers critical HR questions:
 
 ---
 
-## 📈 Insights Derived
+## Insights Derived
 
 * 🔹 Higher attrition observed among employees with 1–3 years of tenure
 * 🔹 Overtime and low job satisfaction strongly correlate with attrition
@@ -51,7 +51,7 @@ These insights can help HR teams proactively design retention strategies.
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Power BI**
 * **DAX (Data Analysis Expressions)**
@@ -61,7 +61,7 @@ These insights can help HR teams proactively design retention strategies.
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ✔ Interactive filters and slicers
 ✔ Department-wise attrition analysis
@@ -73,7 +73,7 @@ These insights can help HR teams proactively design retention strategies.
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 This dashboard enables organizations to:
 
@@ -86,7 +86,7 @@ It transforms static HR data into strategic decision intelligence.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Attrition prediction using Machine Learning
 * Integration with Python for predictive modeling
